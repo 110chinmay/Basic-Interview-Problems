@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-	<button onclick="myFunction();">Try it</button>
-</body>
-<script type="text/javascript">	
-	
+
 myFun = (str) => { 
   
   var revStr = '';
@@ -23,8 +14,4 @@ myFun = (str) => {
   }
 }
 
-myFun('mumum');
-
-
-</script>
-</html>
+myFun('Redder');
